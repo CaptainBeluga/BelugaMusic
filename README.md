@@ -30,10 +30,12 @@ To make the Telegram Bot run always you need to keep the program instance always
 
 So if you shutdown the laptop the bot will not work. Here the best solution ↓ ↓ ↓
 
-    1. 
+    1. Create and Account and Upload files in PythonAnyWhere => https://www.pythonanywhere.com/
     
-    2. In the OpenWeather Documention you will find all available types of data you can grab by their API
+    2. Create the folder where you'll save the downloaded music
     
-    3. Edit the code as you want according to what you want to do
+    3. Access to a bash shell, nagivate to your script's path and run the comand => python youFileName.py
+    
+    4. You can close the PythonAnyWhere tab and the script will continue to run
     
   
