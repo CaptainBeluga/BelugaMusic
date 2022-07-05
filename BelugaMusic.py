@@ -2,7 +2,6 @@ from time import *
 from telegram.ext import Updater,CommandHandler,MessageHandler,Filters
 import youtube_dl
 import os
-import requests
 
 TOKEN = "5550360361:AAGzMdR-_QljfEiHEve_WlWSjjSJmO_sYBU"
 
