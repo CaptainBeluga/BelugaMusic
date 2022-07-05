@@ -30,7 +30,7 @@ To make the Telegram Bot run always you need to keep the program instance always
 
 So if you shutdown the laptop the bot will not work. Here the best solution ↓ ↓ ↓
 
-    1. Create and Account and Upload files in PythonAnyWhere => https://www.pythonanywhere.com/
+    1. Create a free account and Upload files in PythonAnyWhere => https://www.pythonanywhere.com/
     
     2. Create the folder where you'll save the downloaded music
     
